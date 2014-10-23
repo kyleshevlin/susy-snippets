@@ -1,6 +1,6 @@
 # Susy Snippets
 
-This is a collection of Sublime Text snippets for [Susy](http://susy.oddbird.net/) 2. These will work on files with the `.sass` and `.scss` extension for now.
+This is a collection of Sublime Text snippets for [Susy](http://susy.oddbird.net/) 2. These will work on files with the `.sass` and `.scss` extensions.
 
 ## Installation
 
