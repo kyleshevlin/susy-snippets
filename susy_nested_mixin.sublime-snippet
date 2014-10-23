@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@include nested(${1:});
+@include nested(${1:}) {
+	${2:}
+}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ne</tabTrigger>
