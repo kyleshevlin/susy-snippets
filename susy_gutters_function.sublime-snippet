@@ -5,6 +5,6 @@ gutters(${1:});
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>guf</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 	<description>Susy Gutters Function Snippet</description>
 </snippet>

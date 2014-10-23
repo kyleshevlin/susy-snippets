@@ -5,6 +5,6 @@
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>sq</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
-	<scope>source.scss</scope>
+	<scope>source.sass, source.scss</scope>
 	<description>Susy Squish Mixin Snippet</description>
 </snippet>
