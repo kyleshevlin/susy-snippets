@@ -1,6 +1,8 @@
 <snippet>
 	<content><![CDATA[
-@include with-layout(${1:});
+@include with-layout(${1:}) {
+	${2:}
+}
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>wl</tabTrigger>
