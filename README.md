@@ -1,6 +1,6 @@
 # Susy Snippets
 
-This is a collection of Sublime Text snippets for [Susy](http://susy.oddbird.net/). These will work on files with the `.scss` extension for now.
+This is a collection of Sublime Text snippets for [Susy](http://susy.oddbird.net/) 2. These will work on files with the `.scss` extension for now.
 
 Here are the tab triggers in alphabetical order:
 
