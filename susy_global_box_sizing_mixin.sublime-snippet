@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+@include global-box-sizing(${1:});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>gbs</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss</scope>
+	<description>Susy Global Box Sizing Mixin</description>
+</snippet>

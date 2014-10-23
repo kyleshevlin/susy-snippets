@@ -1,0 +1,10 @@
+<snippet>
+	<content><![CDATA[
+span(${1:});
+]]></content>
+	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
+	<tabTrigger>spf</tabTrigger>
+	<!-- Optional: Set a scope to limit where the snippet will trigger -->
+	<scope>source.scss</scope>
+	<description>Susy Span Function Snippet</description>
+</snippet>
