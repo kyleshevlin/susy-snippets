@@ -25,6 +25,7 @@ Here are the tab triggers in alphabetical order:
 * `gu` - Gutters Mixin
 * `is` - Isolate Mixin
 * `la` - Last Mixin
+* `lof` - Layout Function
 * `lo` - Layout Mixin
 * `nef` - Nested Function
 * `ne` - Nested Mixin
