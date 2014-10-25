@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include container(${1:});
+@include container($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>co</tabTrigger>

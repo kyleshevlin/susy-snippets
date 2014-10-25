@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include bleed(${1:});
+@include bleed($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>bl</tabTrigger>

@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-span(${1:});
+span($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>spf</tabTrigger>

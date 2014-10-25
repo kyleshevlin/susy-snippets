@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include isolate(${1:});
+@include isolate($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>is</tabTrigger>

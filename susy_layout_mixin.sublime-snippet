@@ -1,9 +1,9 @@
 <snippet>
 	<content><![CDATA[
-@include layout(${1:});
+@include layout($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
-	<tabTrigger>lo</tabTrigger>
+	<tabTrigger>ly</tabTrigger>
 	<!-- Optional: Set a scope to limit where the snippet will trigger -->
 	<scope>source.sass, source.scss</scope>
 	<description>Susy Layout Mixin Snippet</description>

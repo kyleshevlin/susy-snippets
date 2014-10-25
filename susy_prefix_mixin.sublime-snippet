@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include prefix(${1:});
+@include prefix($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>px</tabTrigger>

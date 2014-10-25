@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include pad(${1:});
+@include pad($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>pad</tabTrigger>

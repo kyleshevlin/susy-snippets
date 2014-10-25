@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include global-box-sizing(${1:});
+@include global-box-sizing($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>gbs</tabTrigger>

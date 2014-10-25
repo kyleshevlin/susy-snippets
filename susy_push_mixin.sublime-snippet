@@ -1,6 +1,6 @@
 <snippet>
 	<content><![CDATA[
-@include push(${1:});
+@include push($1);
 ]]></content>
 	<!-- Optional: Set a tabTrigger to define how to trigger the snippet -->
 	<tabTrigger>ph</tabTrigger>
