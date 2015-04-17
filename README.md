@@ -4,7 +4,13 @@ This is a collection of Sublime Text snippets for [Susy](http://susy.oddbird.net
 
 ## Installation
 
-To install these snippets, navigate to your Sublime Text User directory in Terminal. This is nested fairly deep, so it might be easiest while in Sublime Text to go: Sublime Text > Preferences > Browse Packages... and then drag your User directory onto your terminal (after typing in the `cd` command, of course). Once in the directory, you can clone the repo and Sublime Text should be all set to use these snippets.
+If you have Package Control installed, you can search for "Susy 2 Snippets" and install directly. Otherwise, navigate to your Sublime Text User directory in Terminal.
+
+```
+cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/User
+```
+
+Once in the directory, you can clone the repo and Sublime Text should be all set to use these snippets.
 
 ## Tab Triggers
 
